@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Time block"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>VIRTUA_TENNIS_PC.exe+952D1C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>12</ID>
+      <Description>"Max Shoot set or 1065353216 or 1075353216 or exgerate 1085353216"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>00b03968</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"COM set 0"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>VIRTUA_TENNIS_PC.exe+8DC938</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"1p set 40"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>VIRTUA_TENNIS_PC.exe+8DC934</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>15</ID>
+      <Description>"Position (set1, for master set 3) "</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>VIRTUA_TENNIS_PC.exe+8DC95C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"No opponent (riportare a valore normale prima di fine partita)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>00cdc900</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>19</ID>
+      <Description>"Never Fault ( set to 3)"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>00CDC94C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>22</ID>
+      <Description>"Cambiare n. birilli (0=10)"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>00D52CF5</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"Gravità pallina"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>00B02C7A</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>26</ID>
+      <Description>"Set game win"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>VIRTUA_TENNIS_PC.exe+8DC924</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Money 2.000.000"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>VIRTUA_TENNIS_PC.exe+8DD338</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Punteggio max 7000"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>VIRTUA_TENNIS_PC.exe+952D18</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>8</ID>
+      <Description>"Pin Crasher (basta il 1° strike)"</Description>
+      <Color>000000</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>00D52D00</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Ever 20 ball"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>VIRTUA_TENNIS_PC.exe+952CF0</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>27</ID>
+      <Description>"Set Bull's Eye score"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>00D52CF5</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>28</ID>
+      <Description>"Doubles partner in World Circuit (Select from list)"</Description>
+      <DropDownList>FF: No partner
+00: Courier (USA)
+01: Pioline (FRA)
+02: Henman (GBR)
+03: Haas (GER)
+04: Philipoussis (AUS) -- dummied picture, but WORKS!!
+05: Moya (ESP)
+06: Johansson (SWE)
+07: Kafelnikov (RUS)
+08: Tinbergen (NED)
+09: Euler (SUI)
+0A: Tesla (CRO)
+0B: Altman (CAN)
+0C: Singh (IND)
+0D: Costa (BRA)
+0E: Ventura (ITA)
+0F: Inoue (JPN)
+10: Master
+11: King
+</DropDownList>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>Byte</VariableType>
+      <Address>VIRTUA_TENNIS_PC.exe+8DD35D</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>29</ID>
+      <Description>"Player used in World Circuit (Select from list )"</Description>
+      <DropDownList>00: Courier (USA)
+01: Pioline (FRA)
+02: Henman (GBR)
+03: Haas (GER)
+04: Philipoussis (AUS) -- dummied picture, but WORKS!!
+05: Moya (ESP)
+06: Johansson (SWE)
+07: Kafelnikov (RUS)
+
+08: Tinbergen (NED)
+09: Euler (SUI)
+0A: Tesla (CRO)
+0B: Altman (CAN)
+0C: Singh (IND)
+0D: Costa (BRA)
+0E: Ventura (ITA)
+0F: Inoue (JPN)
+10: Master
+11: King
+</DropDownList>
+      <ShowAsHex>1</ShowAsHex>
+      <VariableType>Byte</VariableType>
+      <Address>VIRTUA_TENNIS_PC.exe+703930</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>34</ID>
+      <Description>"Pallina in campo avversario. Settare a 60. In combo con battuta exgerate"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>00B02C87</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>41</ID>
+      <Description>"Costumi (da 1 a 28 )"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>00CDD363</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <LuaScript>--TRAINERGENERATORSTART--
+--This is autogenerated code. Changing code in this block will
+--get erased and rewritten if you regenerate the trainer code
+
+--Uncomment the following line if this is a Cheat Table format trainer and you don't want CE to show (Tip, save as .CETRAINER alternatively)
+--hideAllCEWindows()
+
+RequiredCEVersion=6.5
+if (getCEVersion==nil) or (getCEVersion()&lt;RequiredCEVersion) then
+  messageDialog('Please install Cheat Engine '..RequiredCEVersion, mtError, mbOK)
+  closeCE()
+end
+addresslist=getAddressList()
+
+
+CETrainer.SEPERATOR.Visible=false
+
+getAutoAttachList().add("VIRTUA_TENNIS_PC.exe")
+gPlaySoundOnAction=false
+CETrainer.show()
+function AboutClick()
+  showMessage(gAboutText)
+end
+gAboutText=[[This trainer was made by Cheat Engine
+www.cheatengine.org]]
+
+function CloseClick()
+  --called by the close button onClick event, and when closing the form
+  closeCE()
+  return caFree --onClick doesn't care, but onClose would like a result
+end
+
+--TRAINERGENERATORSTOP--
+</LuaScript>
+</CheatTable>
